@@ -23,7 +23,7 @@ private:
   bool _closed = false; 
   /** End Data Members **/
   
-  SDL_Window* window = nullptr; 
+  SDL_Window* _window = nullptr; 
 
 };
 
