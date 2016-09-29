@@ -2,7 +2,7 @@
 #include <SDL.h> // main components for rendering 2D-Space Game
 #include "Window.h" // Construct Window for SDL GAME
 
-int main(int argc, char** argv)
+int main(int argc, char** argv) // formal parameters meant for passing in data in command line, useful for testing c++ standard. 
 {
 
 /** _Construct game window **/
