@@ -14,7 +14,7 @@ Window mainMenu(MAIN_TITLE, RESOLUTION_X, RESOLUTION_Y);
 
 while (!mainMenu.isClosed())
 {
- // perform main menu event here. 
+ // preform main menu event here. 
  mainMenu.pollEvents();
 }
 
